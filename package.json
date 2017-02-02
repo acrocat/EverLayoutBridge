@@ -9,6 +9,7 @@
   "author": "Dale Webster",
   "license": "MIT",
   "dependencies": {
+    "minimist": "^1.2.0",
     "socket.io": "^1.7.2"
   }
 }
