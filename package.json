@@ -1,0 +1,14 @@
+{
+  "name": "ever-layout-server",
+  "version": "1.0.0",
+  "description": "A small server application to accompany the EverLayout framework for iOS",
+  "main": "ever-layout-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dale Webster",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^1.7.2"
+  }
+}
