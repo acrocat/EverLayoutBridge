@@ -1,10 +1,10 @@
 {
   "name": "ever-layout-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A small server application to accompany the EverLayout framework for iOS",
   "main": "ever-layout-server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "bin":{
+    "ever-layout-server": "bin/ever-layout-server.js"
   },
   "author": "Dale Webster",
   "license": "MIT",
