@@ -5,9 +5,9 @@ EverLayout.
 
 You can find more info on EverLayout [here](https://github.com/acrocat/EverLayout)
 
-## Installation
+# Installation
 
-` npm install -g ever-layout-bridge`
+`npm install -g ever-layout-bridge`
 
 # Usage
 
