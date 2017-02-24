@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "description": "A small server application to accompany the EverLayout library for iOS",
   "main": "ever-layout-bridge.js",
-  "bin":{
+  "bin": {
     "ever-layout-bridge": "bin/ever-layout-bridge.js"
   },
   "author": "Dale Webster",
